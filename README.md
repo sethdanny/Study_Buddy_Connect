@@ -33,9 +33,9 @@ Study Buddy Connect is an online platform designed to enhance collaborative stud
 
 - **Frontend:** HTML, CSS, JavaScript, React
 
-- **Backend:** Node.js
+- **Backend:** Python
 
-- **Database:** MySQL or PostgreSQL
+- **Database:** Sqlite
 
 - **Real-time Communication:** WebSockets
 
